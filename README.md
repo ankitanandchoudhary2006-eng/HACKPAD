@@ -26,17 +26,20 @@ SO I make a 3x3 HACKPAD for myself . It is based on RP2040 and I tried it to mak
   
 # Schematics 
 
+<img width="1465" height="497" alt="Screenshot 2026-11-16 012324" src="https://github.com/user-attachments/assets/c3f4df71-34a7-4fbb-b705-547c927cf807" />
+
 # PCB 
+<img width="630" height="665" alt="Screenshot 2026-11-16 011144" src="https://github.com/user-attachments/assets/53d78111-bf9d-4300-81fd-9c7f59e0342e" />
 
 
 # CAD
 
+<img width="908" height="506" alt="Screenshot 2026-11-16 011725" src="https://github.com/user-attachments/assets/199c85fd-bb16-43e8-bf3a-0fb9f8304c04" />
 
 # Built 
-![Uploading 1000116049.jpg…]()
+<img width="4080" height="3072" alt="1000116049" src="https://github.com/user-attachments/assets/c5783fb8-1c2d-4ac9-8429-f934403d3e45" />
+<img width="3072" height="4080" alt="1000116047" src="https://github.com/user-attachments/assets/d5ebd566-4f9f-4179-8eef-071b2f4a996e" />
 
-![Uploading 1000116047.jpg…]()
-![Uploading 1000116048.jpg…]()
 
 # Build Instruction 
 
