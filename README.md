@@ -21,7 +21,7 @@ SO I make a 3x3 HACKPAD for myself . It is based on RP2040 and I tried it to mak
 | Hot-Swap Sockets | Already have| https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/ |
 | Meckeys Shipping |  Already have | https://meckeys.com |
 | Diodes  | Already have | — |
-| Rotary Encoder | Already have | — |
+| Rotary Encoder | Already have | https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/?gad_source=1&gad_campaignid=20363337560&gbraid=0AAAAADvLFWct9h45Mxed9zkPiGxGE94cn&gclid=Cj0KCQiA8aTYBhCvARIsAJFINlfZNuzLi7gixoSZKyuDWx-FxyBE6fwVGIXYczLEjFYsSskAcftmpAQaAnAbEALw_wcB|
 | **Total** | **0.00** | |
   
 # Schematics 
