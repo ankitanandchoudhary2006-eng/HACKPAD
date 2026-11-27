@@ -20,7 +20,7 @@ SO I make a 3x3 HACKPAD for myself . It is based on RP2040 and I tried it to mak
 | Switches  |  Already have| https://neomacro.in/products/hmx-snowfall-tactile-switch |
 | Hot-Swap Sockets | Already have| https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/ |
 | Meckeys Shipping |  Already have | https://meckeys.com |
-| Diodes  | Already have | — |
+| Diodes  | Already have | https://www.indiamart.com/proddetail/1n4148-zener-diode-17117437048.html?srsltid=AY6E963bki0nwL2OinjlMEuWS0M70KFi09qZbGwOVNGWITkDFowKNj5A |
 | Rotary Encoder | Already have | https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/?gad_source=1&gad_campaignid=20363337560&gbraid=0AAAAADvLFWct9h45Mxed9zkPiGxGE94cn&gclid=Cj0KCQiA8aTYBhCvARIsAJFINlfZNuzLi7gixoSZKyuDWx-FxyBE6fwVGIXYczLEjFYsSskAcftmpAQaAnAbEALw_wcB|
 | **Total** | **0.00** | |
   
